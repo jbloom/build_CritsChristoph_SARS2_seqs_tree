@@ -1,0 +1,13 @@
+name: build_CritsChristoph_SARS2_seqs_tree
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - altair=5.3.0
+  - augur=24.3.0
+  - jupyterlab
+  - openpyxl
+  - python=3.10
+  - snakemake=7
